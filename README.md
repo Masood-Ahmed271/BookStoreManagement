@@ -18,14 +18,13 @@ ________________________________________________________________________________
 
 *Picture of the UI of Book Store Web App*
 
-<img width="1439" alt="Screenshot 2023-11-15 at 9 43 00 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/5ad10a1c-cd51-47ba-ad71-0121692c5f60">
+<img width="1439" alt="Screenshot 2023-11-15 at 9 43 00 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/2a7cb8d6-ff86-4cfa-8ba9-2b9570f89756">
 
-<img width="1440" alt="Screenshot 2023-11-15 at 9 44 13 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/c3026e2a-b6e3-47f9-b9e9-0113ac1c8235">
+<img width="1440" alt="Screenshot 2023-11-15 at 9 43 21 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/eeb50c71-8e31-4830-a6cc-3d3537db325e">
 
-<img width="1440" alt="Screenshot 2023-11-15 at 9 43 53 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/75d368c6-e91c-4485-bac4-2fa0e468ae9c">
+<img width="1438" alt="Screenshot 2023-11-15 at 9 43 34 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/dd8241d2-428d-489d-9908-a6c4436eb960">
 
-<img width="1438" alt="Screenshot 2023-11-15 at 9 43 34 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/c966c4f5-4ae3-4584-bcf0-735386d2d150">
+<img width="1440" alt="Screenshot 2023-11-15 at 9 43 53 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/dd3e7ce4-61ff-4cd2-a7ea-383ed55ba219">
 
-<img width="1440" alt="Screenshot 2023-11-15 at 9 43 21 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/88eeaf17-6ace-4e76-9b52-ec53b7bae035">
-
-  ______________________________________________________________________________________________________________________
+_<img width="1440" alt="Screenshot 2023-11-15 at 9 44 13 PM" src="https://github.com/Masood-Ahmed271/BookStoreManagement/assets/63158543/a6088ddd-f2ab-402c-83e0-e7e54cd5c3f3">
+_________________________________________________
